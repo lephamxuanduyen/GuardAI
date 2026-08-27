@@ -1,0 +1,6 @@
+{
+  "name": "GuardAI Voice Shield",
+  "description": "AI-powered Real-time Scam Detection & Family Protection Workspace",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
